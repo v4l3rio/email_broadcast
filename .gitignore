@@ -1,0 +1,9 @@
+.DS_Store
+config.json
+destinatari.json
+destinatariProva.json
+LISTINO_2021_COLETTA.pdf
+node_modules/
+package.json
+package-lock.json
+template.txt
